@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+//test
 const asyncComponent = (importComponent) => {
     return class extends Component {
         state = {
